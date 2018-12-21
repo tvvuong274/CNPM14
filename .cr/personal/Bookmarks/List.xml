@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root Type="DevExpress.CodeRush.Foundation.Markers.SolutionBookmarksContainer">
+  <Options Language="Neutral">
+    <Items>
+      <Item Id="{ee5f063e-232c-48f3-9318-795761e9fa55}">
+        <Id>1</Id>
+        <File>DXApplication1\QLBH\Program.cs</File>
+        <Line>27</Line>
+        <Character>5</Character>
+        <ViewportTop>7</ViewportTop>
+        <ViewportTopMax>31</ViewportTopMax>
+        <TopLine>7</TopLine>
+      </Item>
+    </Items>
+  </Options>
+</Root>
